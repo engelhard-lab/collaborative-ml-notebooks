@@ -25,5 +25,5 @@ Model development exercises and methods demonstrations designed to facilitate co
 ## Standalone model development notebooks
 
 - [Time series classification](notebooks/time_series_classification.ipynb)
-- [Multi-label learning](notebooks/Multi-task Learning.ipynb)
+- [Multi-label learning](<notebooks/Multi-task Learning.ipynb>)
 - [Intro to semi-supervised and active learning](notebooks/intro_to_semi_supervised_and_active_learning.ipynb)
