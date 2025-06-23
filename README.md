@@ -21,7 +21,7 @@ Model development exercises and methods demonstrations designed to facilitate co
 2. [Bag of words models](notebooks/bag_of_words_models.ipynb) ([key](notebooks/bag_of_words_models_key.ipynb))
 3. [Exploring word embeddings](notebooks/exploring_word_embeddings.ipynb)
 4. [Simple word embedding model](notebooks/simple_word_embedding_model.ipynb) ([key](notebooks/simple_word_embedding_model_key.ipynb))
-5. [LLM-powered text classification](notebooks/llm_powered_text_classification.ipynb) ([key](notebooks/llm_powered_text_classificatio_keyn.ipynb))
+5. [LLM-powered text classification](notebooks/llm_powered_text_classification.ipynb) ([key](notebooks/llm_powered_text_classificatio_key.ipynb))
 
 ## Standalone model development notebooks
 
